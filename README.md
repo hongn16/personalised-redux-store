@@ -2,6 +2,10 @@
 
 ### [Live Site](https://personalised-redux-store.netlify.app/)
 
+![personalised-redux-store](https://user-images.githubusercontent.com/105206461/167684106-619a802f-5f84-42e0-9701-936a855734c1.png)
+
+## About
+
 This project uses React and Redux to create a personalised store.
 
 ## Available Scripts
